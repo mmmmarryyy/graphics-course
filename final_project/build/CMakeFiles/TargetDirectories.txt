@@ -1,0 +1,13 @@
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/final_project/build/CMakeFiles/final_project.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/final_project/build/CMakeFiles/edit_cache.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/final_project/build/CMakeFiles/rebuild_cache.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/final_project/build/CMakeFiles/list_install_components.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/final_project/build/CMakeFiles/install.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/final_project/build/CMakeFiles/install/local.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/final_project/build/CMakeFiles/install/strip.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/final_project/build/glm/CMakeFiles/edit_cache.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/final_project/build/glm/CMakeFiles/rebuild_cache.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/final_project/build/glm/CMakeFiles/list_install_components.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/final_project/build/glm/CMakeFiles/install.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/final_project/build/glm/CMakeFiles/install/local.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/final_project/build/glm/CMakeFiles/install/strip.dir

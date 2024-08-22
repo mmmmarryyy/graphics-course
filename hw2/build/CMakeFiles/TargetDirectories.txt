@@ -1,0 +1,13 @@
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/hw2/build/CMakeFiles/hw2.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/hw2/build/CMakeFiles/edit_cache.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/hw2/build/CMakeFiles/rebuild_cache.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/hw2/build/CMakeFiles/list_install_components.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/hw2/build/CMakeFiles/install.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/hw2/build/CMakeFiles/install/local.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/hw2/build/CMakeFiles/install/strip.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/hw2/build/glm/CMakeFiles/edit_cache.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/hw2/build/glm/CMakeFiles/rebuild_cache.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/hw2/build/glm/CMakeFiles/list_install_components.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/hw2/build/glm/CMakeFiles/install.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/hw2/build/glm/CMakeFiles/install/local.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/hw2/build/glm/CMakeFiles/install/strip.dir

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -DGLM_FORCE_SWIZZLE -DPROJECT_ROOT=\\\"/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14\\\" -I/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14/rapidjson/include -I/opt/homebrew/include -I/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14 -F/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/System/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/System/Library/Frameworks -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/practice14.dir/main.cpp.o -c /Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14/main.cpp",
+  "file": "/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14/main.cpp",
+  "output": "CMakeFiles/practice14.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -DGLM_FORCE_SWIZZLE -DPROJECT_ROOT=\\\"/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14\\\" -I/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14/rapidjson/include -I/opt/homebrew/include -I/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14 -F/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/System/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/System/Library/Frameworks -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/practice14.dir/gltf_loader.cpp.o -c /Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14/gltf_loader.cpp",
+  "file": "/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14/gltf_loader.cpp",
+  "output": "CMakeFiles/practice14.dir/gltf_loader.cpp.o"
+},
+{
+  "directory": "/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DGLM_ENABLE_EXPERIMENTAL -DGLM_FORCE_SWIZZLE -DPROJECT_ROOT=\\\"/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14\\\" -I/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14/rapidjson/include -I/opt/homebrew/include -I/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14 -F/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/System/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/System/Library/Frameworks -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/practice14.dir/stb_image.c.o -c /Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14/stb_image.c",
+  "file": "/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14/stb_image.c",
+  "output": "CMakeFiles/practice14.dir/stb_image.c.o"
+},
+{
+  "directory": "/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -DGLM_FORCE_SWIZZLE -DPROJECT_ROOT=\\\"/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14\\\" -I/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14/rapidjson/include -I/opt/homebrew/include -I/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14 -F/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/System/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/System/Library/Frameworks -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/practice14.dir/aabb.cpp.o -c /Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14/aabb.cpp",
+  "file": "/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14/aabb.cpp",
+  "output": "CMakeFiles/practice14.dir/aabb.cpp.o"
+},
+{
+  "directory": "/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -DGLM_FORCE_SWIZZLE -DPROJECT_ROOT=\\\"/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14\\\" -I/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14/rapidjson/include -I/opt/homebrew/include -I/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14 -F/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/System/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/System/Library/Frameworks -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/practice14.dir/frustum.cpp.o -c /Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14/frustum.cpp",
+  "file": "/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice14/frustum.cpp",
+  "output": "CMakeFiles/practice14.dir/frustum.cpp.o"
+}
+]

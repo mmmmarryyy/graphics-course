@@ -1,0 +1,3 @@
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice5/build/CMakeFiles/practice5.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice5/build/CMakeFiles/edit_cache.dir
+/Users/maria.barkovskaya/Documents/uni/comp_graph/graphics-course-practice/practice5/build/CMakeFiles/rebuild_cache.dir
